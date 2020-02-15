@@ -1,10 +1,10 @@
-String Reversal
-Palindromes
-Integer Reversal
-MaxChars
-The Classic FizzBuzz
+**String Reversal
+**Palindromes
+**Integer Reversal
+**MaxChars
+**The Classic FizzBuzz
 Array Chunking 
-Anagrams 
+** Anagrams 
 Sentence Capitalization 
 Printing Steps 
 Two Sided Steps - Pyramids
